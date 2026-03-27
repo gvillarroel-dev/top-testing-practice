@@ -1,4 +1,4 @@
-export const analizeArray = (input) => {
+export const analyzeArray = (input) => {
 	if (input.length === 0) {
 		return {
 			average: 0,
